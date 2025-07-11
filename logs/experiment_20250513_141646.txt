@@ -1,0 +1,8 @@
+Experiment name: house_collect
+Output directory: experiments
+Number of samples: 10
+Image dimensions: 640x640
+Image quality: High WebGL
+Start time: 2025-05-13 14:16:46
+Conda environment: base
+House 88 failed: Error encountered when running action {'action': 'Teleport', 'position': {'x': 5.0, 'y': 0.9009997844696045, 'z': 5.25}, 'sequenceId': 32} in scene Procedural.

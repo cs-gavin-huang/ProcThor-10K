@@ -1,0 +1,64 @@
+# Navigation Plan for House: house_at_skip_index_1, Door: door|6|7
+# Target Actual Door XZ: (0.7571, 0)
+# Door Proxy Point XZ: (0.25, 0.0)
+# Random Start Point XZ: (0.0, -0.25)
+# Random End Point XZ: (-0.5, -2.0)
+
+--- Path Segment 1 (Start to Door Proxy) ---
+Path Points (3), Estimated Distance: 0.50m
+  S1_0: (0.00, -0.25)
+  S1_1: (0.00, 0.00)
+  S1_2: (0.25, 0.00)
+
+Commands for Segment 1:
+  Teleport(x=0.00, y=0.90, z=-0.25, rotation=0.0)
+  MoveAhead(moveMagnitude=0.25)
+  RotateRight(degrees=90)
+  MoveAhead(moveMagnitude=0.25)
+
+--- Path Segment 2 (Door Proxy to End) ---
+Path Points (12), Estimated Distance: 2.75m
+  S2_0: (0.25, 0.00)
+  S2_1: (0.25, -0.25)
+  S2_2: (0.25, -0.50)
+  S2_3: (0.25, -0.75)
+  S2_4: (0.25, -1.00)
+  S2_5: (0.25, -1.25)
+  S2_6: (0.25, -1.50)
+  S2_7: (0.25, -1.75)
+  S2_8: (0.25, -2.00)
+  S2_9: (0.00, -2.00)
+  S2_10: (-0.25, -2.00)
+  S2_11: (-0.50, -2.00)
+
+Commands for Segment 2:
+  Teleport(x=0.25, y=0.90, z=0.00, rotation=180.0)
+  MoveAhead(moveMagnitude=0.25)
+  MoveAhead(moveMagnitude=0.25)
+  MoveAhead(moveMagnitude=0.25)
+  MoveAhead(moveMagnitude=0.25)
+  MoveAhead(moveMagnitude=0.25)
+  MoveAhead(moveMagnitude=0.25)
+  MoveAhead(moveMagnitude=0.25)
+  MoveAhead(moveMagnitude=0.25)
+  RotateRight(degrees=90)
+  MoveAhead(moveMagnitude=0.25)
+  MoveAhead(moveMagnitude=0.25)
+  MoveAhead(moveMagnitude=0.25)
+
+--- Full Combined Path (for context) ---
+Path Points (14), Estimated Total Distance: 3.25m
+  FP_0: (0.00, -0.25)
+  FP_1: (0.00, 0.00)
+  FP_2: (0.25, 0.00)
+  FP_3: (0.25, -0.25)
+  FP_4: (0.25, -0.50)
+  FP_5: (0.25, -0.75)
+  FP_6: (0.25, -1.00)
+  FP_7: (0.25, -1.25)
+  FP_8: (0.25, -1.50)
+  FP_9: (0.25, -1.75)
+  FP_10: (0.25, -2.00)
+  FP_11: (0.00, -2.00)
+  FP_12: (-0.25, -2.00)
+  FP_13: (-0.50, -2.00)

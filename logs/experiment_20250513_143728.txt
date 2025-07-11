@@ -1,0 +1,7 @@
+Experiment name: house_collect
+Output directory: experiments
+Number of samples: 10
+Image dimensions: 640x640
+Image quality: High WebGL
+Start time: 2025-05-13 14:37:28
+Conda environment: base

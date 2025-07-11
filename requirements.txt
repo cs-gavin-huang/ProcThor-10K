@@ -1,0 +1,14 @@
+prior
+ai2thor
+scikit-learn
+Pillow
+openai>=1.0.0
+torch>=2.0.0
+transformers>=4.30.0
+pillow>=9.0.0
+numpy>=1.21.0
+tqdm>=4.65.0
+ollama
+sglang
+accelerate
+requests

@@ -1,0 +1,134 @@
+# Navigation Plan for House: house_idx_10, Door: door|4|5
+# Target Actual Door XZ: (3.2713, 1.8356)
+# Door Position Source: live_object_position_offset_fixed_Z_0.5m
+# Path from (10.25, 1.75) to Proxy (3.25, 1.75)
+
+--- Path Points (63), Estimated Grid Distance: 62 * 0.25m ---
+  P0: (10.25, 1.75)
+  P1: (10.50, 1.75)
+  P2: (10.75, 1.75)
+  P3: (11.00, 1.75)
+  P4: (11.00, 2.00)
+  P5: (11.00, 2.25)
+  P6: (11.00, 2.50)
+  P7: (11.00, 2.75)
+  P8: (11.00, 3.00)
+  P9: (10.75, 3.00)
+  P10: (10.75, 3.25)
+  P11: (10.75, 3.50)
+  P12: (10.75, 3.75)
+  P13: (10.75, 4.00)
+  P14: (10.75, 4.25)
+  P15: (11.00, 4.25)
+  P16: (11.00, 4.50)
+  P17: (11.00, 4.75)
+  P18: (11.00, 5.00)
+  P19: (10.75, 5.00)
+  P20: (10.50, 5.00)
+  P21: (10.25, 5.00)
+  P22: (10.00, 5.00)
+  P23: (9.75, 5.00)
+  P24: (9.50, 5.00)
+  P25: (9.25, 5.00)
+  P26: (9.00, 5.00)
+  P27: (9.00, 4.75)
+  P28: (9.00, 4.50)
+  P29: (9.00, 4.25)
+  P30: (9.00, 4.00)
+  P31: (9.00, 3.75)
+  P32: (8.75, 3.75)
+  P33: (8.50, 3.75)
+  P34: (8.50, 3.50)
+  P35: (8.50, 3.25)
+  P36: (8.50, 3.00)
+  P37: (8.50, 2.75)
+  P38: (8.50, 2.50)
+  P39: (8.25, 2.50)
+  P40: (8.00, 2.50)
+  P41: (7.75, 2.50)
+  P42: (7.50, 2.50)
+  P43: (7.25, 2.50)
+  P44: (7.00, 2.50)
+  P45: (6.75, 2.50)
+  P46: (6.50, 2.50)
+  P47: (6.25, 2.50)
+  P48: (6.25, 2.25)
+  P49: (6.25, 2.00)
+  P50: (6.25, 1.75)
+  P51: (6.00, 1.75)
+  P52: (5.75, 1.75)
+  P53: (5.50, 1.75)
+  P54: (5.25, 1.75)
+  P55: (5.00, 1.75)
+  P56: (4.75, 1.75)
+  P57: (4.50, 1.75)
+  P58: (4.25, 1.75)
+  P59: (4.00, 1.75)
+  P60: (3.75, 1.75)
+  P61: (3.50, 1.75)
+  P62: (3.25, 1.75)
+
+Teleport Commands (for replay):
+  Teleport(x=10.250, y=0.901, z=1.750, rotation=90.0) # Step 0
+  Teleport(x=10.500, y=0.901, z=1.750, rotation=90.0) # Step 1
+  Teleport(x=10.750, y=0.901, z=1.750, rotation=90.0) # Step 2
+  Teleport(x=11.000, y=0.901, z=1.750, rotation=0.0) # Step 3
+  Teleport(x=11.000, y=0.901, z=2.000, rotation=0.0) # Step 4
+  Teleport(x=11.000, y=0.901, z=2.250, rotation=0.0) # Step 5
+  Teleport(x=11.000, y=0.901, z=2.500, rotation=0.0) # Step 6
+  Teleport(x=11.000, y=0.901, z=2.750, rotation=0.0) # Step 7
+  Teleport(x=11.000, y=0.901, z=3.000, rotation=270.0) # Step 8
+  Teleport(x=10.750, y=0.901, z=3.000, rotation=0.0) # Step 9
+  Teleport(x=10.750, y=0.901, z=3.250, rotation=0.0) # Step 10
+  Teleport(x=10.750, y=0.901, z=3.500, rotation=0.0) # Step 11
+  Teleport(x=10.750, y=0.901, z=3.750, rotation=0.0) # Step 12
+  Teleport(x=10.750, y=0.901, z=4.000, rotation=0.0) # Step 13
+  Teleport(x=10.750, y=0.901, z=4.250, rotation=90.0) # Step 14
+  Teleport(x=11.000, y=0.901, z=4.250, rotation=0.0) # Step 15
+  Teleport(x=11.000, y=0.901, z=4.500, rotation=0.0) # Step 16
+  Teleport(x=11.000, y=0.901, z=4.750, rotation=0.0) # Step 17
+  Teleport(x=11.000, y=0.901, z=5.000, rotation=270.0) # Step 18
+  Teleport(x=10.750, y=0.901, z=5.000, rotation=270.0) # Step 19
+  Teleport(x=10.500, y=0.901, z=5.000, rotation=270.0) # Step 20
+  Teleport(x=10.250, y=0.901, z=5.000, rotation=270.0) # Step 21
+  Teleport(x=10.000, y=0.901, z=5.000, rotation=270.0) # Step 22
+  Teleport(x=9.750, y=0.901, z=5.000, rotation=270.0) # Step 23
+  Teleport(x=9.500, y=0.901, z=5.000, rotation=270.0) # Step 24
+  Teleport(x=9.250, y=0.901, z=5.000, rotation=270.0) # Step 25
+  Teleport(x=9.000, y=0.901, z=5.000, rotation=180.0) # Step 26
+  Teleport(x=9.000, y=0.901, z=4.750, rotation=180.0) # Step 27
+  Teleport(x=9.000, y=0.901, z=4.500, rotation=180.0) # Step 28
+  Teleport(x=9.000, y=0.901, z=4.250, rotation=180.0) # Step 29
+  Teleport(x=9.000, y=0.901, z=4.000, rotation=180.0) # Step 30
+  Teleport(x=9.000, y=0.901, z=3.750, rotation=270.0) # Step 31
+  Teleport(x=8.750, y=0.901, z=3.750, rotation=270.0) # Step 32
+  Teleport(x=8.500, y=0.901, z=3.750, rotation=180.0) # Step 33
+  Teleport(x=8.500, y=0.901, z=3.500, rotation=180.0) # Step 34
+  Teleport(x=8.500, y=0.901, z=3.250, rotation=180.0) # Step 35
+  Teleport(x=8.500, y=0.901, z=3.000, rotation=180.0) # Step 36
+  Teleport(x=8.500, y=0.901, z=2.750, rotation=180.0) # Step 37
+  Teleport(x=8.500, y=0.901, z=2.500, rotation=270.0) # Step 38
+  Teleport(x=8.250, y=0.901, z=2.500, rotation=270.0) # Step 39
+  Teleport(x=8.000, y=0.901, z=2.500, rotation=270.0) # Step 40
+  Teleport(x=7.750, y=0.901, z=2.500, rotation=270.0) # Step 41
+  Teleport(x=7.500, y=0.901, z=2.500, rotation=270.0) # Step 42
+  Teleport(x=7.250, y=0.901, z=2.500, rotation=270.0) # Step 43
+  Teleport(x=7.000, y=0.901, z=2.500, rotation=270.0) # Step 44
+  Teleport(x=6.750, y=0.901, z=2.500, rotation=270.0) # Step 45
+  Teleport(x=6.500, y=0.901, z=2.500, rotation=270.0) # Step 46
+  Teleport(x=6.250, y=0.901, z=2.500, rotation=180.0) # Step 47
+  Teleport(x=6.250, y=0.901, z=2.250, rotation=180.0) # Step 48
+  Teleport(x=6.250, y=0.901, z=2.000, rotation=180.0) # Step 49
+  Teleport(x=6.250, y=0.901, z=1.750, rotation=270.0) # Step 50
+  Teleport(x=6.000, y=0.901, z=1.750, rotation=270.0) # Step 51
+  Teleport(x=5.750, y=0.901, z=1.750, rotation=270.0) # Step 52
+  Teleport(x=5.500, y=0.901, z=1.750, rotation=270.0) # Step 53
+  Teleport(x=5.250, y=0.901, z=1.750, rotation=270.0) # Step 54
+  Teleport(x=5.000, y=0.901, z=1.750, rotation=270.0) # Step 55
+  Teleport(x=4.750, y=0.901, z=1.750, rotation=270.0) # Step 56
+  Teleport(x=4.500, y=0.901, z=1.750, rotation=270.0) # Step 57
+  Teleport(x=4.250, y=0.901, z=1.750, rotation=270.0) # Step 58
+  Teleport(x=4.000, y=0.901, z=1.750, rotation=270.0) # Step 59
+  Teleport(x=3.750, y=0.901, z=1.750, rotation=270.0) # Step 60
+  Teleport(x=3.500, y=0.901, z=1.750, rotation=270.0) # Step 61
+  Teleport(x=3.250, y=0.901, z=1.750, rotation=270.0) # Step 62
