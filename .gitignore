@@ -2,6 +2,9 @@
 __pycache__/
 *.py[cod]
 *$py.class
+experiment_sampling_loc/
+experiment_VLM_eval_object_affordance/
+navigation_outputs/
 
 # C extensions
 *.so
